@@ -1,0 +1,20 @@
+/*core, variables, mixins,... */
+@import "imports/core/_reset.scss";
+@import "imports/core/_variables.scss";
+@import "imports/core/_mixins.scss";
+@import "imports/core/_layouts.scss";
+@import "imports/core/_libs";
+@import "imports/core/_components.scss";
+
+/*navigation, header, footer*/
+@import "imports/core/_footer.scss";
+@import "imports/core/_header.scss";
+
+/*pages*/
+@import "imports/pages/home.scss";
+
+/*code*/
+/*
+essential styles:
+these make the slideshow work
+*/
